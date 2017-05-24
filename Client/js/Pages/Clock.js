@@ -59,7 +59,7 @@ export class Clock extends React.Component{
 
                 <div className=" skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill white">
-                    <img src="/Client/img/Skills/js.png" alt="JavaScript" />
+                    <img src="/img/Skills/js.png" alt="JavaScript" />
                     <div className="slider">
                       <p>Javascript</p>
                     </div>
@@ -68,7 +68,7 @@ export class Clock extends React.Component{
 
                 <div className=" skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill white">
-                    <img src="/Client/img/Skills/css.png" alt="CSS" />
+                    <img src="/img/Skills/css.png" alt="CSS" />
                     <div className="slider">
                       <p>CSS</p>
                     </div>
@@ -77,7 +77,7 @@ export class Clock extends React.Component{
 
                 <div className=" skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill white">
-                    <img src="/Client/img/Skills/html.png" alt="HTML" />
+                    <img src="/img/Skills/html.png" alt="HTML" />
                     <div className="slider">
                       <p>HTML</p>
                     </div>
@@ -86,7 +86,7 @@ export class Clock extends React.Component{
 
                 <div className=" skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill white">
-                    <img src="/Client/img/Skills/react.png" alt="React.js" />
+                    <img src="/img/Skills/react.png" alt="React.js" />
                     <div className="slider">
                       <p>React.js</p>
                     </div>
@@ -95,7 +95,7 @@ export class Clock extends React.Component{
 
                 <div className=" skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill white">
-                    <img src="/Client/img/Skills/Bootstrap.png" alt="Bootstrap" />
+                    <img src="/img/Skills/Bootstrap.png" alt="Bootstrap" />
                     <div className="slider">
                       <p>Bootstrap</p>
                     </div>
@@ -104,7 +104,7 @@ export class Clock extends React.Component{
 
                 <div className=" skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill white">
-                    <img src="/Client/img/Skills/sass.png" alt="SASS" />
+                    <img src="/img/Skills/sass.png" alt="SASS" />
                     <div className="slider">
                       <p>SASS</p>
                     </div>
@@ -113,7 +113,7 @@ export class Clock extends React.Component{
 
                 <div className=" skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill white">
-                    <img src="/Client/img/Skills/webpack.png" alt="Webpack" />
+                    <img src="/img/Skills/webpack.png" alt="Webpack" />
                     <div className="slider">
                       <p>Webpack</p>
                     </div>

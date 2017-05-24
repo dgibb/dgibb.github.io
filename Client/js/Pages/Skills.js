@@ -34,7 +34,7 @@ export class Skills extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill">
-                    <img src="/Client/img/Skills/js.png" alt="JavaScript" />
+                    <img src="/img/Skills/js.png" alt="JavaScript" />
                     <div className="slider">
                       <p>Javascript</p>
                     </div>
@@ -43,7 +43,7 @@ export class Skills extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill">
-                    <img src="/Client/img/Skills/css.png" alt="CSS" />
+                    <img src="/img/Skills/css.png" alt="CSS" />
                     <div className="slider">
                       <p>CSS</p>
                     </div>
@@ -52,7 +52,7 @@ export class Skills extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill">
-                    <img src="/Client/img/Skills/html.png" alt="HTML" />
+                    <img src="/img/Skills/html.png" alt="HTML" />
                     <div className="slider">
                       <p>HTML</p>
                     </div>
@@ -61,7 +61,7 @@ export class Skills extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill">
-                    <img src="/Client/img/Skills/java.png" alt="Java" />
+                    <img src="/img/Skills/java.png" alt="Java" />
                     <div className="slider">
                       <p>Java</p>
                     </div>
@@ -70,7 +70,7 @@ export class Skills extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill">
-                    <img src="/Client/img/Skills/cpp.png" alt="C++" />
+                    <img src="/img/Skills/cpp.png" alt="C++" />
                     <div className="slider">
                       <p>C++</p>
                     </div>
@@ -79,7 +79,7 @@ export class Skills extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill">
-                    <img src="/Client/img/Skills/c.png" alt="C" />
+                    <img src="/img/Skills/c.png" alt="C" />
                     <div className="slider">
                       <p>C</p>
                     </div>
@@ -88,7 +88,7 @@ export class Skills extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill">
-                    <img src="/Client/img/Skills/go.png" alt="Go" />
+                    <img src="/img/Skills/go.png" alt="Go" />
                     <div className="slider">
                       <p>Go</p>
                     </div>
@@ -97,7 +97,7 @@ export class Skills extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill">
-                    <img src="/Client/img/Skills/rust.png" alt="Rust" />
+                    <img src="/img/Skills/rust.png" alt="Rust" />
                     <div className="slider">
                       <p>Rust</p>
                     </div>
@@ -106,7 +106,7 @@ export class Skills extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill">
-                    <img src="/Client/img/Skills/arm.png" alt="ARM Assembly" />
+                    <img src="/img/Skills/arm.png" alt="ARM Assembly" />
                     <div className="slider">
                       <p>ARMv7 Assembly</p>
                     </div>
@@ -115,7 +115,7 @@ export class Skills extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill">
-                    <img src="/Client/img/Skills/mips.png" alt="MIPS Assembly" />
+                    <img src="/img/Skills/mips.png" alt="MIPS Assembly" />
                     <div className="slider">
                       <p>MIPS Assembly</p>
                     </div>
@@ -124,7 +124,7 @@ export class Skills extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill">
-                    <img src="/Client/img/Skills/z80.png" alt="Z80 Assembly" />
+                    <img src="/img/Skills/z80.png" alt="Z80 Assembly" />
                     <div className="slider">
                       <p>Z80 Assembly</p>
                     </div>
@@ -133,7 +133,7 @@ export class Skills extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill">
-                    <img src="/Client/img/Skills/6502.png" alt="6502 Assembly" />
+                    <img src="/img/Skills/6502.png" alt="6502 Assembly" />
                     <div className="slider">
                       <p>6502 Assembly</p>
                     </div>
@@ -160,7 +160,7 @@ export class Skills extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill white">
-                    <img src="/Client/img/Skills/react.png" alt="React.js" />
+                    <img src="/img/Skills/react.png" alt="React.js" />
                     <div className="slider">
                       <p>React.js</p>
                     </div>
@@ -169,7 +169,7 @@ export class Skills extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill white">
-                    <img src="/Client/img/Skills/Bootstrap.png" alt="Bootstrap" />
+                    <img src="/img/Skills/Bootstrap.png" alt="Bootstrap" />
                     <div className="slider">
                       <p>Bootstrap</p>
                     </div>
@@ -178,7 +178,7 @@ export class Skills extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill white">
-                    <img src="/Client/img/Skills/sass.png" alt="SASS" />
+                    <img src="/img/Skills/sass.png" alt="SASS" />
                     <div className="slider">
                       <p>SASS</p>
                     </div>
@@ -187,7 +187,7 @@ export class Skills extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill white">
-                    <img src="/Client/img/Skills/node.png" alt="Node.js" />
+                    <img src="/img/Skills/node.png" alt="Node.js" />
                     <div className="slider">
                       <p>Node.js</p>
                     </div>
@@ -196,7 +196,7 @@ export class Skills extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill white">
-                    <img src="/Client/img/Skills/express.png" alt="Express.js" />
+                    <img src="/img/Skills/express.png" alt="Express.js" />
                     <div className="slider">
                       <p>Express.js</p>
                     </div>
@@ -205,7 +205,7 @@ export class Skills extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill white">
-                    <img src="/Client/img/Skills/webpack.png" alt="Webpack" />
+                    <img src="/img/Skills/webpack.png" alt="Webpack" />
                     <div className="slider">
                       <p>Webpack</p>
                     </div>
@@ -214,7 +214,7 @@ export class Skills extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill white">
-                    <img src="/Client/img/Skills/grunt.png" alt="Grunt" />
+                    <img src="/img/Skills/grunt.png" alt="Grunt" />
                     <div className="slider">
                       <p>Grunt</p>
                     </div>
@@ -241,7 +241,7 @@ export class Skills extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill">
-                    <img src="/Client/img/Skills/git.png" alt="Git" />
+                    <img src="/img/Skills/git.png" alt="Git" />
                     <div className="slider">
                       <p>Git</p>
                     </div>
@@ -250,7 +250,7 @@ export class Skills extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill">
-                    <img src="/Client/img/Skills/linux.png" alt="Linux" />
+                    <img src="/img/Skills/linux.png" alt="Linux" />
                     <div className="slider">
                       <p>Linux</p>
                     </div>
@@ -259,7 +259,7 @@ export class Skills extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill">
-                    <img src="/Client/img/Skills/windows.png" alt="Windows" />
+                    <img src="/img/Skills/windows.png" alt="Windows" />
                     <div className="slider">
                       <p>Windows</p>
                     </div>
@@ -268,7 +268,7 @@ export class Skills extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill">
-                    <img src="/Client/img/Skills/cygwin.png" alt="Cygwin" />
+                    <img src="/img/Skills/cygwin.png" alt="Cygwin" />
                     <div className="slider">
                       <p>Cygwin</p>
                     </div>
@@ -277,7 +277,7 @@ export class Skills extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill">
-                    <img src="/Client/img/Skills/ps.png" alt="Photoshop" />
+                    <img src="/img/Skills/ps.png" alt="Photoshop" />
                     <div className="slider">
                       <p>Photoshop</p>
                     </div>
@@ -286,7 +286,7 @@ export class Skills extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill">
-                    <img src="/Client/img/Skills/ai.png" alt="Illustrator" />
+                    <img src="/img/Skills/ai.png" alt="Illustrator" />
                     <div className="slider">
                       <p>Illustrator</p>
                     </div>

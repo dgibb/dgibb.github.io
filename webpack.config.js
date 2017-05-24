@@ -1,21 +1,21 @@
-var path =require('path');
-var webpack =require('webpack');
+const path = require('path');
+const webpack = require('webpack');
 
-module.exports ={
-  entry:'./portfolio.js',
-  output: {path: __dirname, filename: 'portfolio.min.js'},
-  watch:true,
+module.exports = {
+  entry: './Client/portfolio.js',
+  output: { path: __dirname + '/Client', filename: 'portfolio.min.js' },
+  watch: true,
 
-  module:{
-    loaders:[
+  module: {
+    loaders: [
       {
-        test:/.jsx?$/,
-        loader:'babel-loader',
-        exclude:/node_modules/,
+        test: /.jsx?$/,
+        loader: 'babel-loader',
+        exclude: /node_modules/,
         query: {
-          presets:['es2015', 'react']
-        }
-      }
-    ]
+          presets: ['es2015', 'react'],
+        },
+      },
+    ],
   },
 };

@@ -18,7 +18,7 @@ export class Header extends React.Component {
           </div>
           <div className="dropdown">
             <button className="btn btn-secondary dropdown-toggle" type="button" id="ham-menu" data-toggle="dropdown">
-              <img src="../Client/img/hm.png" height="25" alt="dropdown-menu" />
+              <img src="../img/hm.png" height="25" alt="dropdown-menu" />
             </button>
             <div className="dropdown-menu">
               <li className="dropdown-item" href="#"><Link to="/">Home</Link></li>

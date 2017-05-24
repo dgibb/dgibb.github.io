@@ -114,7 +114,7 @@ export class Moes extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill">
-                    <img src="/Client/img/Skills/js.png" alt="JavaScript" />
+                    <img src="/img/Skills/js.png" alt="JavaScript" />
                     <div className="slider">
                       <p>Javascript</p>
                     </div>
@@ -123,7 +123,7 @@ export class Moes extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill">
-                    <img src="/Client/img/Skills/css.png" alt="CSS" />
+                    <img src="/img/Skills/css.png" alt="CSS" />
                     <div className="slider">
                       <p>CSS</p>
                     </div>
@@ -132,7 +132,7 @@ export class Moes extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill">
-                    <img src="/Client/img/Skills/html.png" alt="JavaScript" />
+                    <img src="/img/Skills/html.png" alt="JavaScript" />
                     <div className="slider">
                       <p>HTML</p>
                     </div>
@@ -141,7 +141,7 @@ export class Moes extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill">
-                    <img src="/Client/img/Skills/Bootstrap.png" alt="JavaScript" />
+                    <img src="/img/Skills/Bootstrap.png" alt="JavaScript" />
                     <div className="slider">
                       <p>Bootstrap</p>
                     </div>
@@ -150,7 +150,7 @@ export class Moes extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill">
-                    <img src="/Client/img/Skills/sass.png" alt="JavaScript" />
+                    <img src="/img/Skills/sass.png" alt="JavaScript" />
                     <div className="slider">
                       <p>SASS</p>
                     </div>
@@ -159,7 +159,7 @@ export class Moes extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill">
-                    <img src="/Client/img/Skills/grunt.png" alt="JavaScript" />
+                    <img src="/img/Skills/grunt.png" alt="JavaScript" />
                     <div className="slider">
                       <p>Grunt</p>
                     </div>
@@ -168,7 +168,7 @@ export class Moes extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill">
-                    <img src="/Client/img/Skills/z80.png" alt="JavaScript" />
+                    <img src="/img/Skills/z80.png" alt="JavaScript" />
                     <div className="slider">
                       <p>Z80 Assembly</p>
                     </div>
@@ -177,7 +177,7 @@ export class Moes extends React.Component {
 
                 <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
                   <div className="skill">
-                    <img src="/Client/img/Skills/6502.png" alt="JavaScript" />
+                    <img src="/img/Skills/6502.png" alt="JavaScript" />
                     <div className="slider">
                       <p>6502 Assembly</p>
                     </div>

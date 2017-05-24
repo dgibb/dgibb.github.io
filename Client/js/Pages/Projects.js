@@ -29,7 +29,7 @@ export class Projects extends React.Component {
               <div className=" col-lg-4 col-md-4 col-sm-6 col-xs-6 project">
                 <div className="project-container">
                   <Link to="/Projects/Moes">
-                    <img className="moes"src="/Client/img/SMB3.png" alt="MOES" />
+                    <img className="moes"src="/img/SMB3.png" alt="MOES" />
                     <div className="project-text">
                       <h1>MOES</h1>
                       <div className="project-description">
@@ -43,7 +43,7 @@ export class Projects extends React.Component {
               <div className=" col-lg-4 col-md-4 col-sm-6 col-xs-6 project">
                 <div className="project-container">
                   <Link to="/Projects/Flappy">
-                    <img className="flappy" src="/Client/img/Flappy.png" alt="Flappy" />
+                    <img className="flappy" src="/img/Flappy.png" alt="Flappy" />
                     <div className="project-text">
                       <h1>Flappy</h1>
                       <div className="project-description">
@@ -57,7 +57,7 @@ export class Projects extends React.Component {
               <div className=" col-lg-4 col-md-4 col-sm-6 col-xs-6 project">
                 <div className="project-container">
                   <Link to="/Projects/Clock">
-                    <img className="clock" src="/Client/img/Clock.png" alt="Clock" />
+                    <img className="clock" src="/img/Clock.png" alt="Clock" />
                     <div className="project-text">
                       <h1>Clock</h1>
                       <div className="project-description">
@@ -71,7 +71,7 @@ export class Projects extends React.Component {
               <div className=" col-lg-4 col-md-4 col-sm-6 col-xs-6 project">
                 <div className="project-container">
                   <Link to="/Projects/Drumkit">
-                    <img className="drumkit" src="/Client/img/Drumkit.png" alt="Drumkit" />
+                    <img className="drumkit" src="/img/Drumkit.png" alt="Drumkit" />
                     <div className="project-text">
                       <h1>Drumkit</h1>
                       <div className="project-description">

@@ -192,39 +192,39 @@ html, body, #app, #react-root,.content{
   }
 }
 .page-title-container.home{
-  background-image: url("/Client/img/Page Titles/Home.jpg");
+  background-image: url("/img/Page Titles/Home.jpg");
 }
 
 .page-title-container.skills{
-  background-image: url("/Client/img/Page Titles/Skills.jpg");
+  background-image: url("/img/Page Titles/Skills.jpg");
   background-position:left bottom;
 }
 
 .page-title-container.contact{
-  background-image: url("/Client/img/Page Titles/contact.jpg");
+  background-image: url("/img/Page Titles/contact.jpg");
   background-position:left bottom;
 }
 .page-title-container.moes{
-  background-image: url("/Client/img/Page Titles/moes.jpg");
+  background-image: url("/img/Page Titles/moes.jpg");
   background-position:center center;
 }
 .page-title-container.flappy{
-  background-image: url("/Client/img/Page Titles/Flappy.jpg");
+  background-image: url("/img/Page Titles/Flappy.jpg");
   background-position:left bottom;
 }
 
 .page-title-container.clock{
-  background-image: url("/Client/img/Page Titles/clock.jpg");
+  background-image: url("/img/Page Titles/clock.jpg");
   background-position:center center;
 }
 
 .page-title-container.drumkit{
-  background-image: url("/Client/img/Page Titles/drumkit.jpg");
+  background-image: url("/img/Page Titles/drumkit.jpg");
   background-position:center center;
 }
 
 .page-title-container.projects{
-  background-image: url("/Client/img/Page Titles/projects.jpg");
+  background-image: url("/img/Page Titles/projects.jpg");
   background-position:center center;
 }
 
@@ -404,16 +404,16 @@ html, body, #app, #react-root,.content{
     transform:scale(1.05);
     box-shadow: 0px 0px 10px rgba(0,0,0,.3);
     img.moes{
-    content:url("/Client/img/SMB3.gif");
+    content:url("/img/SMB3.gif");
     }
   img.flappy{
-  content:url("/Client/img/flappy.gif");
+  content:url("/img/flappy.gif");
   }
   img.clock{
-  content:url("/Client/img/clock.gif");
+  content:url("/img/clock.gif");
   }
   img.drumkit{
-    content:url("/Client/img/drumkit.gif");
+    content:url("/img/drumkit.gif");
   }
   }
   a{
