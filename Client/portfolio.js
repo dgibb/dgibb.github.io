@@ -16,12 +16,12 @@ ReactDOM.render(
   <Router>
     <div>
       <Route exact path="/" component={Home} />
-      <Route exact path="/Projects" component={Projects} />
+      <Route path="/Projects" component={Projects} />
       <Route path="/Contact" component={Contact} />
-      <Route path="/Projects/Moes" component={Moes} />
-      <Route path="/Projects/Flappy" component={Flappy} />
-      <Route path="/Projects/Clock" component={Clock} />
-      <Route path="/Projects/Drumkit" component={Drumkit} />
+      <Route path="/Moes" component={Moes} />
+      <Route path="/Flappy" component={Flappy} />
+      <Route path="/Clock" component={Clock} />
+      <Route path="/Drumkit" component={Drumkit} />
       <Route path="/Skills" component={Skills} />
     </div>
   </Router>,

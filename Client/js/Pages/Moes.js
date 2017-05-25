@@ -27,7 +27,7 @@ export class Moes extends React.Component {
                 <button><a href="http://github.com/dgibb/MOES"> Source Code</a></button>
               </div>
               <div className="link-container col-lg-6 col-md-6 col-sm-6 col-xs-6">
-                <button><a href="http://dgibb.github.io/MOES">Live Demo</a></button>
+                <button><a href="http://dgibb.github.io/MOES/consoles.html">Live Demo</a></button>
               </div>
             </div>
           </div>

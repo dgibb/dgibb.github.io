@@ -49,7 +49,7 @@ export class Home extends React.Component {
             <div className="projects-inner-container row">
               <div className=" col-lg-3 col-md-3 col-sm-6 col-xs-6 project">
                 <div className="project-container">
-                  <Link to="/Projects/Moes">
+                  <Link to="/Moes">
                     <img className="moes"src="/img/SMB3.png" alt="MOES" />
                     <div className="project-text">
                       <h1>MOES</h1>
@@ -63,7 +63,7 @@ export class Home extends React.Component {
 
               <div className=" col-lg-3 col-md-3 col-sm-6 col-xs-6 project">
                 <div className="project-container">
-                  <Link to="/Projects/Flappy">
+                  <Link to="/Flappy">
                     <img className="flappy" src="/img/Flappy.png" alt="Flappy" />
                     <div className="project-text">
                       <h1>Flappy</h1>
@@ -77,7 +77,7 @@ export class Home extends React.Component {
 
               <div className=" col-lg-3 col-md-3 col-sm-6 col-xs-6 project">
                 <div className="project-container">
-                  <Link to="/Projects/Clock">
+                  <Link to="/Clock">
                     <img className="clock" src="/img/Clock.png" alt="Clock" />
                     <div className="project-text">
                       <h1>Clock</h1>
@@ -91,7 +91,7 @@ export class Home extends React.Component {
 
               <div className=" col-lg-3 col-md-3 col-sm-6 col-xs-6 project">
                 <div className="project-container">
-                  <Link to="/Projects/Drumkit">
+                  <Link to="/Drumkit">
                     <img className="drumkit" src="/img/Drumkit.png" alt="Drumkit" />
                     <div className="project-text">
                       <h1>Drumkit</h1>
