@@ -3,6 +3,11 @@ import { Footer } from '../React Components/Footer';
 import { Header } from '../React Components/Header';
 
 export class Skills extends React.Component {
+
+  componentDidMount() {
+    window.scrollTo(0, 0);
+  }
+
   render() {
     return (
 

@@ -4,6 +4,11 @@ import { Footer } from '../React Components/Footer';
 import { Header } from '../React Components/Header';
 
 export class Projects extends React.Component {
+
+  componentDidMount() {
+    window.scrollTo(0, 0);
+  }
+
   render() {
     return (
       <div className="content">
