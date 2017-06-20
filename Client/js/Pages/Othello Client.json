@@ -1,0 +1,72 @@
+{
+  "sections": [
+    {
+      "type": "title",
+      "title": "Othello Client",
+      "color": "othello"
+    },
+    {
+      "type": "null",
+      "title": ""
+    },
+    {
+      "type": "links",
+      "sourceLink": "https://github.com/Laughing-Man-Studios/othello-client",
+      "demoLink": "https://othello-master.herokuapp.com/",
+      "buttonText": "no button",
+      "buttonLink": ""
+    },
+    {
+      "type": "text",
+      "title": "About Othello Client",
+      "description": "Othello Client is the front end portion of a web application implementing a game of othello. Othello Client uses event streams to communicate with the server, and was built with React.js to render an svg board that changes with the state of the game. The full application devolped by Laughing Man Studios is deployed on Heroku.",
+      "buttonText": "no button",
+      "buttonLink": ""
+    },
+    {
+      "type": "skills",
+      "title": "Technologies Used",
+      "description": "Here are the languages and tools I used in the production of this project",
+      "buttonText": "no button",
+      "buttonLink": "",
+      "skills": [
+        {
+          "name": "HTML",
+          "filepath": "/img/Skills/html.png"
+        },
+        {
+          "name": "CSS",
+          "filepath": "/img/Skills/css.png"
+        },
+        {
+          "name": "JavaScript",
+          "filepath": "/img/Skills/javascript.png"
+        },
+        {
+          "name": "React.js",
+          "filepath": "/img/Skills/react.png"
+        },
+        {
+          "name": "Bootstrap",
+          "filepath": "/img/Skills/bootstrap.png"
+        },
+        {
+          "name": "SASS",
+          "filepath": "/img/Skills/sass.png"
+        },
+        {
+          "name": "Webpack",
+          "filepath": "/img/Skills/webpack.png"
+        },
+        {
+          "name": "JQuery",
+          "filepath": "/img/Skills/jquery.png"
+        },
+        {
+          "name": "JSON",
+          "filepath": "/img/Skills/json.png"
+        }
+      ]
+    }
+  ]
+}

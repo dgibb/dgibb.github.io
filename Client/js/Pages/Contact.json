@@ -1,0 +1,20 @@
+{
+  "sections": [
+    {
+      "type": "title",
+      "title": "Contact",
+      "color": "contact"
+    },
+    {
+      "type": "text",
+      "title": "Contact me",
+      "description": "If you need to get in contact with me for any reason I prefer that you do so by Email. My Email address is dgibb802@gmail.com and I usally respond within 24 hours. Feel free to also add me on social media or follow me on GitHub, there are links to my profiles in the page footer.",
+      "buttonText": "no button",
+      "buttonLink": ""
+    },
+    {
+      "type": "Email",
+      "title": "Send Me a Message"
+    }
+  ]
+}

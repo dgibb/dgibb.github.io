@@ -81,10 +81,12 @@ html, body, #app, #react-root,.content{
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     margin-top: 0px;
+    margin-bottom: 20px;
   }
   p{
     text-align: center;
-      font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-bottom: 0px;
   }
 }
 
@@ -186,7 +188,7 @@ html, body, #app, #react-root,.content{
         width:100%;
         color:white;
         font-family: 'Montserrat', sans-serif;
-        font-size: 50px;
+        font-size: 70px;
       }
     }
   }
@@ -228,6 +230,16 @@ html, body, #app, #react-root,.content{
   background-position:center center;
 }
 
+.page-title-container.chat{
+  background-image: url("/img/Page Titles/chat.png");
+  background-position:center center;
+}
+
+.page-title-container.othello{
+  background-image: url("/img/Page Titles/othello.png");
+  background-position:center center;
+}
+
 
 
 .skill-container{
@@ -254,12 +266,13 @@ html, body, #app, #react-root,.content{
     width: 100%;
     height: 100%;
     transition: .5s;
-    background-color: rgba(255, 255, 255, .9);
+    background-color: white;
     p {
       position:relative;
       top: 50%;
       transform: translateY(-50%);
       text-align: center;
+      font-family: 'Montserrat', sans-serif;
     }
   }
   }
@@ -404,16 +417,22 @@ html, body, #app, #react-root,.content{
     transform:scale(1.05);
     box-shadow: 0px 0px 10px rgba(0,0,0,.3);
     img.moes{
-    content:url("/img/SMB3.gif");
+    content:url("/img/Projects/SMB3.gif");
     }
   img.flappy{
-  content:url("/img/flappy.gif");
+  content:url("/img/Projects/flappy.gif");
   }
   img.clock{
-  content:url("/img/clock.gif");
+  content:url("/img/Projects/clock.gif");
   }
   img.drumkit{
-    content:url("/img/drumkit.gif");
+    content:url("/img/Projects/drumkit.gif");
+  }
+  img.chat{
+    content:url("/img/Projects/chat.gif");
+  }
+  img.portfolio{
+    content:url("/img/Projects/portfolio.gif");
   }
   }
   a{
@@ -441,10 +460,11 @@ html, body, #app, #react-root,.content{
 }
 
 .input-field{
-  width:95%;
+  font-family: 'Roboto', sans-serif;
+  padding:5px;
+  width:100%;
   background-color: #FFF;
-  border:1px solid $darkGrey1;
-  border-radius: 5px;
+  border:2px solid $lightGrey2;
 }
 
 .message{

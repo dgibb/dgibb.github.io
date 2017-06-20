@@ -1,0 +1,64 @@
+{
+  "sections": [
+    {
+      "type": "title",
+      "title": "Flappy",
+      "color": "flappy"
+    },
+    {
+      "type": "null",
+      "title": ""
+    },
+    {
+      "type": "links",
+      "sourceLink": "http://github.com/dgibb/flappy-bird-clone-game",
+      "demoLink": "http://dgibb.github.io/flappy-bird-clone-game",
+      "buttonText": "no button",
+      "buttonLink": ""
+    },
+    {
+      "type": "text",
+      "title": "About Flappy",
+      "description": "Flappy is a clone of the popular game Flappy Bird, it was written from scratch in javascript and renders to the screen using a canvas object. It uses an a random number generator to generate the heights for new sets of pipes, and a quadratic equation to simulate the effect of gravity and drag on the bird.",
+      "buttonText": "no button",
+      "buttonLink": ""
+    },
+    {
+      "type": "skills",
+      "title": "Technologies Used",
+      "description": "Here are the languages and tools I used in the production of this project",
+      "buttonText": "no button",
+      "buttonLink": "",
+      "skills": [
+        {
+          "name": "HTML",
+          "filepath": "/img/Skills/html.png"
+        },
+        {
+          "name": "CSS",
+          "filepath": "/img/Skills/css.png"
+        },
+        {
+          "name": "JavaScript",
+          "filepath": "/img/Skills/javascript.png"
+        },
+        {
+          "name": "React.js",
+          "filepath": "/img/Skills/react.png"
+        },
+        {
+          "name": "Bootstrap",
+          "filepath": "/img/Skills/bootstrap.png"
+        },
+        {
+          "name": "SASS",
+          "filepath": "/img/Skills/sass.png"
+        },
+        {
+          "name": "Webpack",
+          "filepath": "/img/Skills/webpack.png"
+        }
+      ]
+    }
+  ]
+}

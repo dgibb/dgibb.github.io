@@ -1,0 +1,107 @@
+{
+  "sections": [
+    {
+      "type": "title",
+      "title": "Welcome",
+      "color": "home"
+    },
+    {
+      "type": "text",
+      "title": "About Me",
+      "buttonText": "no button",
+      "buttonLink": "",
+      "description": "Hi my name is David Gibb and I'm a 24 year old software developer based out of the Boston area. I have an education computer systems engineering and a strong passion for learning that drives me to take on extracurricuar projects and use new technologies. I enjoy writing all kinds of programs from microprocessor simulators and console emulators to browser based games and tools. Take a look around my website to find out more about who I am and what I do!"
+    },
+    {
+      "type": "projects",
+      "title": "Projects",
+      "description": "Here are a few of the projects I have worked on recently",
+      "buttonText": "See All Projects",
+      "buttonLink": "/Projects",
+      "projects": [
+        {
+          "title": "MOES",
+          "link": "/Moes",
+          "imgPath": "/img/Projects/moes.png",
+          "description": "Multiplayer Online Emulator Suite"
+        },
+        {
+          "title": "Chat",
+          "link": "/Chat",
+          "imgPath": "/img/Projects/chat.png",
+          "description": "Socket Chat Room"
+        },
+        {
+          "title": "Othello",
+          "link": "/Othello Client",
+          "imgPath": "/img/Projects/othello.png",
+          "description": "Multiplayer Othello Game"
+        }
+      ]
+    },
+    {
+      "type": "skills",
+      "title": "Skills and Proficiencies",
+      "description": "Here are some of the technologies I am familiar with",
+      "buttonText": "See All Skills",
+      "buttonLink": "/Skills",
+      "skills": [
+        {
+          "name": "HTML",
+          "filepath": "/img/Skills/html.png"
+        },
+        {
+          "name": "CSS",
+          "filepath": "/img/Skills/css.png"
+        },
+        {
+          "name": "JavaScript",
+          "filepath": "/img/Skills/javascript.png"
+        },
+        {
+          "name": "JQuery",
+          "filepath": "/img/Skills/jquery.png"
+        },
+        {
+          "name": "React.js",
+          "filepath": "/img/Skills/react.png"
+        },
+        {
+          "name": "Bootstrap",
+          "filepath": "/img/Skills/bootstrap.png"
+        },
+        {
+          "name": "SASS",
+          "filepath": "/img/Skills/sass.png"
+        },
+        {
+          "name": "Node.js",
+          "filepath": "/img/Skills/node.png"
+        },
+        {
+          "name": "Express.js",
+          "filepath": "/img/Skills/express.png"
+        },
+        {
+          "name": "Webpack",
+          "filepath": "/img/Skills/webpack.png"
+        },
+        {
+          "name": "Grunt",
+          "filepath": "/img/Skills/grunt.png"
+        },
+        {
+          "name": "Java",
+          "filepath": "/img/Skills/java.png"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Contact",
+      "buttonText": "See Contact Info",
+      "buttonLink": "/Contact",
+      "description" : "If you need to get in contact with me for any reason I prefer that you do so by Email. My Email address is dgibb802@gmail.com and I usally respond within 24 hours."
+    }
+  ]
+}

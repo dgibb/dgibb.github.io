@@ -58,10 +58,12 @@ html, body, #app, #react-root, .content {
   .inner-container h2 {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
-    margin-top: 0px; }
+    margin-top: 0px;
+    margin-bottom: 20px; }
   .inner-container p {
     text-align: center;
-    font-family: 'Source Sans Pro', sans-serif; }
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-bottom: 0px; }
 
 .outer-container {
   padding-top: 50px;
@@ -143,7 +145,7 @@ html, body, #app, #react-root, .content {
         width: 100%;
         color: white;
         font-family: 'Montserrat', sans-serif;
-        font-size: 50px; }
+        font-size: 70px; }
 
 .page-title-container.home {
   background-image: url("/img/Page Titles/Home.jpg"); }
@@ -176,6 +178,14 @@ html, body, #app, #react-root, .content {
   background-image: url("/img/Page Titles/projects.jpg");
   background-position: center center; }
 
+.page-title-container.chat {
+  background-image: url("/img/Page Titles/chat.png");
+  background-position: center center; }
+
+.page-title-container.othello {
+  background-image: url("/img/Page Titles/othello.png");
+  background-position: center center; }
+
 .skill-container {
   display: inline-block;
   padding: 10px; }
@@ -196,12 +206,13 @@ html, body, #app, #react-root, .content {
       width: 100%;
       height: 100%;
       transition: .5s;
-      background-color: rgba(255, 255, 255, 0.9); }
+      background-color: white; }
       .skill-container .skill .slider p {
         position: relative;
         top: 50%;
         transform: translateY(-50%);
-        text-align: center; }
+        text-align: center;
+        font-family: 'Montserrat', sans-serif; }
 
 .skill.white {
   background-color: white; }
@@ -311,13 +322,17 @@ html, body, #app, #react-root, .content {
     transform: scale(1.05);
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); }
     .project-container:hover img.moes {
-      content: url("/img/SMB3.gif"); }
+      content: url("/img/Projects/SMB3.gif"); }
     .project-container:hover img.flappy {
-      content: url("/img/flappy.gif"); }
+      content: url("/img/Projects/flappy.gif"); }
     .project-container:hover img.clock {
-      content: url("/img/clock.gif"); }
+      content: url("/img/Projects/clock.gif"); }
     .project-container:hover img.drumkit {
-      content: url("/img/drumkit.gif"); }
+      content: url("/img/Projects/drumkit.gif"); }
+    .project-container:hover img.chat {
+      content: url("/img/Projects/chat.gif"); }
+    .project-container:hover img.portfolio {
+      content: url("/img/Projects/portfolio.gif"); }
   .project-container a:hover {
     text-decoration: none; }
 
@@ -336,10 +351,11 @@ html, body, #app, #react-root, .content {
     margin-bottom: 0px; }
 
 .input-field {
-  width: 95%;
+  font-family: 'Roboto', sans-serif;
+  padding: 5px;
+  width: 100%;
   background-color: #FFF;
-  border: 1px solid #222222;
-  border-radius: 5px; }
+  border: 2px solid #e8e3dd; }
 
 .message {
   resize: none;

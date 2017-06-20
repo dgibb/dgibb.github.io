@@ -1,0 +1,64 @@
+{
+  "sections": [
+    {
+      "type": "title",
+      "title": "Drumkit",
+      "color": "drumkit"
+    },
+    {
+      "type": "null",
+      "title": ""
+    },
+    {
+      "type": "links",
+      "sourceLink": "http://github.com/dgibb/Drum-Kit",
+      "demoLink": "http://dgibb.github.io/Drum-Kit",
+      "buttonText": "no button",
+      "buttonLink": ""
+    },
+    {
+      "type": "text",
+      "title": "About Drumkit",
+      "description": "Drumkit is an online virtual drum machine that plays drum sounds as you type on your keyboard. It was written in javascript by grabbing elements from the DOM and assigning keydown events to them.",
+      "buttonText": "no button",
+      "buttonLink": ""
+    },
+    {
+      "type": "skills",
+      "title": "Technologies Used",
+      "description": "Here are the languages and tools I used in the production of this project",
+      "buttonText": "no button",
+      "buttonLink": "",
+      "skills": [
+        {
+          "name": "HTML",
+          "filepath": "/img/Skills/html.png"
+        },
+        {
+          "name": "CSS",
+          "filepath": "/img/Skills/css.png"
+        },
+        {
+          "name": "JavaScript",
+          "filepath": "/img/Skills/javascript.png"
+        },
+        {
+          "name": "React.js",
+          "filepath": "/img/Skills/react.png"
+        },
+        {
+          "name": "Bootstrap",
+          "filepath": "/img/Skills/bootstrap.png"
+        },
+        {
+          "name": "SASS",
+          "filepath": "/img/Skills/sass.png"
+        },
+        {
+          "name": "Webpack",
+          "filepath": "/img/Skills/webpack.png"
+        }
+      ]
+    }
+  ]
+}

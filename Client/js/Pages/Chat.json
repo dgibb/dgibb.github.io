@@ -1,0 +1,80 @@
+{
+  "sections": [
+    {
+      "type": "title",
+      "title": "Chat",
+      "color": "chat"
+    },
+    {
+      "type": "null",
+      "title": ""
+    },
+    {
+      "type": "links",
+      "sourceLink": "http://github.com/dgibb/Chat",
+      "demoLink": "https://safe-depths-19563.herokuapp.com/",
+      "buttonText": "no button",
+      "buttonLink": ""
+    },
+    {
+      "type": "text",
+      "title": "About Chat",
+      "description": "Chat is a chatroom application that was written using Node.js with Express.js and uses React.js as a front end framework. The server and client communicate with eachother through websockets using the socket.io library. The app is hosted on Heroku, be sure to check out the demo!",
+      "buttonText": "no button",
+      "buttonLink": ""
+    },
+    {
+      "type": "skills",
+      "title": "Technologies Used",
+      "description": "Here are the languages and tools I used in the production of this project",
+      "buttonText": "no button",
+      "buttonLink": "",
+      "skills": [
+        {
+          "name": "HTML",
+          "filepath": "/img/Skills/html.png"
+        },
+        {
+          "name": "CSS",
+          "filepath": "/img/Skills/css.png"
+        },
+        {
+          "name": "JavaScript",
+          "filepath": "/img/Skills/javascript.png"
+        },
+        {
+          "name": "React.js",
+          "filepath": "/img/Skills/react.png"
+        },
+        {
+          "name": "Bootstrap",
+          "filepath": "/img/Skills/bootstrap.png"
+        },
+        {
+          "name": "SASS",
+          "filepath": "/img/Skills/sass.png"
+        },
+        {
+          "name": "Webpack",
+          "filepath": "/img/Skills/webpack.png"
+        },
+        {
+          "name": "Node.js",
+          "filepath": "/img/Skills/node.png"
+        },
+        {
+          "name": "Express.js",
+          "filepath": "/img/Skills/express.png"
+        },
+        {
+          "name": "Socket.io",
+          "filepath": "/img/Skills/socket.png"
+        },
+        {
+          "name": "Heroku",
+          "filepath": "/img/Skills/heroku.png"
+        }
+      ]
+    }
+  ]
+}

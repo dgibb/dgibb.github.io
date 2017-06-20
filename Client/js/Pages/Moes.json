@@ -1,0 +1,68 @@
+{
+  "sections": [
+    {
+      "type": "title",
+      "title": "MOES",
+      "color": "moes"
+    },
+    {
+      "type": "null",
+      "title": " "
+    },
+    {
+      "type": "links",
+      "sourceLink": "http://github.com/dgibb/MOES",
+      "demoLink": "http://dgibb.github.io/MOES/consoles.html",
+      "buttonText": "no button",
+      "buttonLink": ""
+    },
+    {
+      "type": "text",
+      "title": "About Moes",
+      "description": "MOES, the Multiplayer Online Emulation Suite, is a project that strives to provide its users with a clean and accurate web based emulation experience. It currently consists of two browser based emulators written in Javascript, one for Nintendo Gameboy, and one for Nintendo Entertainment System.",
+      "buttonText": "no button",
+      "buttonLink": ""
+    },
+    {
+      "type": "skills",
+      "title": "Technologies Used",
+      "description": "Here are the languages and tools I used in the production of this project",
+      "buttonText": "no button",
+      "buttonLink": "",
+      "skills": [
+        {
+          "name": "HTML",
+          "filepath": "/img/Skills/html.png"
+        },
+        {
+          "name": "CSS",
+          "filepath": "/img/Skills/css.png"
+        },
+        {
+          "name": "JavaScript",
+          "filepath": "/img/Skills/javascript.png"
+        },
+        {
+          "name": "Bootstrap",
+          "filepath": "/img/Skills/bootstrap.png"
+        },
+        {
+          "name": "SASS",
+          "filepath": "/img/Skills/sass.png"
+        },
+        {
+          "name": "Grunt",
+          "filepath": "/img/Skills/grunt.png"
+        },
+        {
+          "name": "Z80 Assembly",
+          "filepath": "/img/Skills/z80.png"
+        },
+        {
+          "name": "6502 Assembly",
+          "filepath": "/img/Skills/6502.png"
+        }
+      ]
+    }
+  ]
+}

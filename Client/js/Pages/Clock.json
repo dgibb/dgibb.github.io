@@ -1,0 +1,64 @@
+{
+  "sections": [
+    {
+      "type": "title",
+      "title": "Clock",
+      "color": "clock"
+    },
+    {
+      "type": "null",
+      "title": ""
+    },
+    {
+      "type": "links",
+      "sourceLink": "http://github.com/dgibb/JavaScript-Analog-Clock",
+      "demoLink": "http://dgibb.github.io/JavaScript-Analog-Clock",
+      "buttonText": "no button",
+      "buttonLink": ""
+    },
+    {
+      "type": "text",
+      "title": "About Clock",
+      "description": "Clock is an analog clock written in Javascript and CSS. Clock has 3 hands one for hours, minutes and seconds that get updated on a 1000 millisecond interval. With each update the hands run an animation to move them to the position that will show the correct time. Clock also has interchangable backgrounds to choose from.",
+      "buttonText": "no button",
+      "buttonLink": ""
+    },
+    {
+      "type": "skills",
+      "title": "Technologies Used",
+      "description": "Here are the languages and tools I used in the production of this project",
+      "buttonText": "no button",
+      "buttonLink": "",
+      "skills": [
+        {
+          "name": "HTML",
+          "filepath": "/img/Skills/html.png"
+        },
+        {
+          "name": "CSS",
+          "filepath": "/img/Skills/css.png"
+        },
+        {
+          "name": "JavaScript",
+          "filepath": "/img/Skills/javascript.png"
+        },
+        {
+          "name": "React.js",
+          "filepath": "/img/Skills/react.png"
+        },
+        {
+          "name": "Bootstrap",
+          "filepath": "/img/Skills/bootstrap.png"
+        },
+        {
+          "name": "SASS",
+          "filepath": "/img/Skills/sass.png"
+        },
+        {
+          "name": "Webpack",
+          "filepath": "/img/Skills/webpack.png"
+        }
+      ]
+    }
+  ]
+}

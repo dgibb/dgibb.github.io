@@ -1,0 +1,144 @@
+{
+  "sections": [
+    {
+      "type": "title",
+      "title": "Skills and Proficiencies",
+      "color": "skills"
+    },
+    {
+      "type": "skills",
+      "title": "Languages",
+      "description": "Here are all of the languages I am familiar with",
+      "buttonText": "no button",
+      "buttonLink": "",
+      "skills": [
+        {
+          "name": "HTML",
+          "filepath": "/img/Skills/html.png"
+        },
+        {
+          "name": "CSS",
+          "filepath": "/img/Skills/css.png"
+        },
+        {
+          "name": "JavaScript",
+          "filepath": "/img/Skills/javascript.png"
+        },
+        {
+          "name": "Java",
+          "filepath": "/img/Skills/java.png"
+        },
+        {
+          "name": "C++",
+          "filepath": "/img/Skills/cpp.png"
+        },
+        {
+          "name": "C",
+          "filepath": "/img/Skills/c.png"
+        },
+        {
+          "name": "Go",
+          "filepath": "/img/Skills/go.png"
+        },
+        {
+          "name": "Rust",
+          "filepath": "/img/Skills/rust.png"
+        },
+        {
+          "name": "ARMv7 Assembly",
+          "filepath": "/img/Skills/arm.png"
+        },
+        {
+          "name": "MIPS Assembly",
+          "filepath": "/img/Skills/mips.png"
+        },
+        {
+          "name": "Z80 Assembly",
+          "filepath": "/img/Skills/z80.png"
+        },
+        {
+          "name": "6502 Assembly",
+          "filepath": "/img/Skills/6502.png"
+        }
+      ]
+    },
+    {
+      "type": "skills",
+      "title": "Frameworks and Libraries",
+      "description": "These frameworks and libraries help me write clean, modular code and complete projects quickly and efficienty",
+      "buttonText": "no button",
+      "buttonLink": "",
+      "skills": [
+        {
+          "name": "React.js",
+          "filepath": "/img/Skills/react.png"
+        },
+        {
+          "name": "Bootstrap",
+          "filepath": "/img/Skills/bootstrap.png"
+        },
+        {
+          "name": "SASS",
+          "filepath": "/img/Skills/sass.png"
+        },
+        {
+          "name": "Node.js",
+          "filepath": "/img/Skills/node.png"
+        },
+        {
+          "name": "Express.js",
+          "filepath": "/img/Skills/express.png"
+        },
+        {
+          "name": "JQuery",
+          "filepath": "/img/Skills/jquery.png"
+        },
+        {
+          "name": "Socket.io",
+          "filepath": "/img/Skills/socket.png"
+        }
+      ]
+    },
+    {
+      "type": "skills",
+      "title": "Tools and Services",
+      "description": "A collection of other software I use that is necessary for me to get the job done",
+      "buttonText": "no button",
+      "buttonLink": "",
+      "skills": [
+        {
+          "name": "Git",
+          "filepath": "/img/Skills/git.png"
+        },
+        {
+          "name": "Webpack",
+          "filepath": "/img/Skills/webpack.png"
+        },
+        {
+          "name": "Grunt",
+          "filepath": "/img/Skills/grunt.png"
+        },
+        {
+          "name": "Heroku",
+          "filepath": "/img/Skills/heroku.png"
+        },
+        {
+          "name": "Node Package Manager",
+          "filepath": "/img/Skills/npm.png"
+        },
+        {
+          "name": "JSON",
+          "filepath": "/img/Skills/json.png"
+        },
+        {
+          "name": "Photoshop",
+          "filepath": "/img/Skills/ps.png"
+        },
+        {
+          "name": "Illustrator",
+          "filepath": "/img/Skills/ai.png"
+        }
+      ]
+    }
+  ]
+}
