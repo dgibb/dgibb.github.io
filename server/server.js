@@ -1,9 +1,11 @@
 const express = require('express');
+const compression = require('compression');
 const morgan = require('morgan');
 const path = require('path');
 
 const server = express();
 
+server.use(compression());
 server.use(morgan(':remote-addr - :remote-user [:date[clf]] ":method :url HTTP/:http-version" :status :res[content-length] :response-time ms'));
 
 server.use(express.static(path.resolve(__dirname, '..', 'Client')));
