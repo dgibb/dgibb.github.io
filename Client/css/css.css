@@ -177,7 +177,7 @@ html, body, #app, #react-root, .content {
   background-position: center center; }
 
 .page-title-container.chat {
-  background-image: url("/img/Page Titles/chat");
+  background-image: url("/img/Page Titles/chat.png");
   background-position: center center; }
 
 .page-title-container.othello {
