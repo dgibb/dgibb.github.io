@@ -45,6 +45,10 @@
           "filepath": "/img/Skills/rust.png"
         },
         {
+          "name": "x86 Assembly",
+          "filepath": "/img/Skills/x86.png"
+        },
+        {
           "name": "ARMv7 Assembly",
           "filepath": "/img/Skills/arm.png"
         },

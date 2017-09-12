@@ -10,7 +10,7 @@ export class Skill extends React.Component {
     return (
       <div className="skill-container col-lg-2 col-md-2 col-sm-3 col-xs-4">
         <div className={classname}>
-          <img src={this.props.filepath} alt={this.props.name} />
+          <img src={this.props.filepath} alt={this.props.name}/>
           <div className="slider">
             <p>{this.props.name}</p>
           </div>
